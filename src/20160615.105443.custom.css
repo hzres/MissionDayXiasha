@@ -1,0 +1,3549 @@
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* Previous Event CSS */
+/* Previous Theme CSS */
+.finetune .adminFixedFix {
+    width: 73.1% !important;
+}
+.finetuneOpen .adminFixedFix {
+    width: 64.5% !important;
+}
+
+.forceAutoHeight {
+    height: auto !important;
+}
+
+#footer {
+    position: relative;
+    z-index: 99;
+}
+/* Previous Theme CSS */
+@-webkit-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-moz-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@-o-keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+@keyframes bounce{
+    0%, 100%   {bottom: 0; opacity:1;}
+    50% {bottom: -15px; opacity:0.7;}
+}
+
+.cover:hover .down-arrow{
+    -webkit-animation: bounce 2s infinite; 
+    -moz-animation: bounce 2s infinite;
+    animation: bounce 2s infinite;
+}
+
+.media {
+    float: left !important;
+    display: block !important;
+}
+
+.media .body {
+    display: none !important;
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+.audio.media .embed iframe {
+    max-width: 100% !important;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+.cover {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+
+@media (max-width: 800px) { 
+   .cover {
+        background-attachment: scroll !important;
+    }   
+}
+
+.grp.media.embed {
+    padding: 0;
+}
+
+svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe svg {
+    display: block;
+}
+
+body:not(.isLegacy) [block-type="map"].s1.map-bottom .body {
+    display: none;
+}
+
+
+/* End of Previous Theme CSS */
+
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
+/* End of Previous Theme CSS */
+
